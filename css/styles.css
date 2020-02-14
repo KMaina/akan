@@ -1,5 +1,5 @@
 h1{
-  color: green;
+  color: red;
   text-align: left;
 }
 img{
@@ -10,4 +10,13 @@ body{
 }
 .row{
   background-image: image('../roundflag.png');
+}
+.row{
+  background-image: url('../df.png');
+}
+p{
+  color: darkblue;
+}
+.labels{
+  background-color: green;
 }
