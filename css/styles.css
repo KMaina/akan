@@ -7,6 +7,7 @@ img{
 }
 body{
   background-color: pink;
+  background-repeat: no-repeat;
 }
 .row{
   background-image: image('../roundflag.png');
@@ -16,7 +17,4 @@ body{
 }
 p{
   color: darkblue;
-}
-.labels{
-  background-color: green;
 }
