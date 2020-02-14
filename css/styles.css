@@ -1,9 +1,13 @@
 h1{
-  color: red;
+  color: green;
+  text-align: left;
 }
 img{
   float: left;
-img {
-    vertical-align: middle;
-    border-style: none;
-  }
+}
+body{
+  background-color: pink;
+}
+.row{
+  background-image: image('../roundflag.png');
+}
