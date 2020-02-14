@@ -1,5 +1,5 @@
 # Akan-Names.
-[Check it out]()
+[Check it out](https://rmautia.github.io/akan/.)
 
 ## Description.
 This website application takes a ``user's birthday``, calculates the ``day of the week`` they were born and then outputs their ``Akan Name``depending on their gender.  
