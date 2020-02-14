@@ -1,22 +1,19 @@
 # Akan-Names.
-[Check it out](https://kamauvick.github.io/Akan-Names/)
+[Check it out]()
 
 ## Description.
-A web application that takes a ``user's birthday``, calculates the ``day of the week`` they were born and then depending on their gender outputs their ``Akan Name``. 
+This website application takes a ``user's birthday``, calculates the ``day of the week`` they were born and then outputs their ``Akan Name``depending on their gender.  
 
 ## Author.
- > Victor kamau
+ > Raphael Nyangenya
 
-## Screenshot.
-<image src="https://github.com/kamauvick/Akan-Names/blob/master/images/shot.png?raw=true" width="1000">
- 
  ## Setup.
- > ``git clone https://github.com/kamauvick/Akan-Names.git``
- 
+ > ``git clone hhttps://github.com/rmautia/akan.git``
+
  ``extract the file``
- 
+
  ``cd to the Akan-Names directory``
- 
+
  > ``Open the index.html on your favorite browser``
 
 ## Technologies used.
@@ -24,15 +21,14 @@ A web application that takes a ``user's birthday``, calculates the ``day of the 
   * Css
   * Javascript
   * Bootstrap
-  * Markdown
-  
+
 ## BDD
 | Inputs |  Description |
 | :---         |          ---: |
-| Century   | The century that the user was born in, ``eg 20th century``|
-| Year     | The year of the century ``eg 98th year``   |
-| Month     | The month of the year ``eg 7th month``     |
-| Date     |  The day of the month ``eg 15th day`` |
+| Century   | The century that the user was born in, ``for example 20th century``|
+| Year     | The year of the century ``example 88th year``   |
+| Month     | The month of the year ``example 9th month``     |
+| Date     |  The day of the month ``example 10th day`` |
 
 
 | Outputs |  Description |
@@ -43,10 +39,10 @@ A web application that takes a ``user's birthday``, calculates the ``day of the 
 
 
 ## Known Bugs
-* Saturday 13th 2019 returns a value of -0.449 which causes the application to crash
+* For the 20 th century some of the years do not display result for the female gender.
 
 ## License
-> MIT License &copy 2019 Victor 
+> MIT License &copy 2020 Ralph
 
-## Collaborate
-To collaborate, reach me on [Email](waichigovick@gmail.com)
+## support
+For any assistance, reach me on [mobile](+254779078401)

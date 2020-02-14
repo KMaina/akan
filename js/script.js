@@ -1,4 +1,4 @@
-var century, year, month, dayOfMonth, dayOfWeek, day;
+var year, month, dayOfMonth, dayOfWeek, day;
 //Get input
 function getInput(){
   century = parseInt(document.getElementById("century").value);
