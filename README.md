@@ -33,8 +33,8 @@ This website application takes a ``user's birthday``, calculates the ``day of th
 
 | Outputs |  Description |
 | :---         |          ---: |
-| Day of birth  | The day of the week that the user was born ``eg Tuesday`` |
-| Akan name    |  The corresponding Akan name for the user ``eg Kofi``    |
+| Day of birth  | The day of the week that the user was born ``eg Sunday`` |
+| Akan name    |  The corresponding Akan name for the user ``eg Kwasi``    |
 |     |      |
 
 

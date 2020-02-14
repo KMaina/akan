@@ -2,5 +2,8 @@ h1{
   color: red;
 }
 img{
-  align-items: center;
-body
+  float: left;
+img {
+    vertical-align: middle;
+    border-style: none;
+  }
