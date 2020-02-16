@@ -38,8 +38,8 @@ This website application takes a ``user's birthday``, calculates the ``day of th
 |     |      |
 
 
-## Known Bugs
-* For the 20 th century some of the years do not display result for the female gender.
+## challenges
+* For the 20th century some of the years do not display result for the female gender.
 
 ## License
 > MIT License &copy 2020 Ralph
