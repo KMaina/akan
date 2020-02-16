@@ -26,3 +26,7 @@ p{
 .q-text{
   background-color: green;
 }
+.overlay{
+  background-image: url('../akannamong.jpeg');image-align: center
+  background-repeat: no-repeat;
+}
