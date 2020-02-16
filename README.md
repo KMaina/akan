@@ -5,16 +5,16 @@
 This website application takes a ``user's birthday``, calculates the ``day of the week`` they were born and then outputs their ``Akan Name``depending on their gender.  
 
 ## Author.
- > Raphael Nyangenya
+ Raphael Nyangenya
 
  ## Setup.
- > ``git clone hhttps://github.com/rmautia/akan.git``
+ git clone hhttps://github.com/rmautia/akan.git
 
- ``extract the file``
+ extract the file
 
- ``cd to the Akan-Names directory``
+ cd to the Akan-Names directory
 
- > ``Open the index.html on your favorite browser``
+ Open the index.HTML on your preferred browser
 
 ## Technologies used.
   * Html5
