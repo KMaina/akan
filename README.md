@@ -45,4 +45,4 @@ This website application takes a ``user's birthday``, calculates the ``day of th
 > MIT License &copy 2020 Ralph
 
 ## support
-For any assistance, reach me on [email](+254779078401)
+For any assistance, reach me on [email](raphaelnyangenya@gmail.com)
